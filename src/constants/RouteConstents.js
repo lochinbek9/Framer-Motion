@@ -1,8 +1,8 @@
 
-const routeConstants = {
+const routesConstants = {
   ROOT: "/",
   HOME: "/",
   PAGE_NOTE_FOUND: "*"
 }
 
-export default routeConstants; 
+export default routesConstants; 
